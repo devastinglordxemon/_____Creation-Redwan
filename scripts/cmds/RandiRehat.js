@@ -1,7 +1,7 @@
 const axios = require('axios');
 module.exports = {
   config: {
-    name: 'randirehat',
+    name: 'v8',
     version: '1.0',
     author: 'rehat--',
     countDown: 0,
