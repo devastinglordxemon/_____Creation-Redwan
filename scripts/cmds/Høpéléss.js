@@ -1,8 +1,8 @@
 module.exports = {
     config: {
-        name: "høpéléss mâhî",
+        name: "redwan",
         version: "1.0",
-        author: "MAHI", //** original author fb I'd : https://m.me/MR.AYAN.2X **//
+        author: "MAHI", 
         countDown: 5,
         role: 0,
         shortDescription: "No Prefix",
