@@ -5,7 +5,7 @@ const UpolImage = UpolUrl[Math.floor(Math.random() * UpolUrl.length)];
 
 module.exports = {
   config: {
-    name: "prefix",
+    name: "bankai",
     version: "1.3",
     author: "NTKhang | UPoL🐔",
     role: 0,
